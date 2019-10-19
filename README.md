@@ -3,7 +3,7 @@ Extract MySql data to Spark DF and then to hive
 
 Steps to perform the extraction:-
 
-Place mysql-connector.jar(https://drive.google.com/file/d/0ByJLBTmJojjzVERvVW1Lc1JpZUU/view) into spark lib folder /usr/lib/spark//lib folder
+Place mysql-connector.jar into spark lib folder /usr/lib/spark//lib folder
 
 Use the above scala code.
 
